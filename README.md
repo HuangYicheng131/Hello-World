@@ -1,2 +1,2 @@
 # Hello
-just an attempt
+try to learn how to use git
